@@ -1,0 +1,16 @@
+q2)1) -rw-rw-r--  1 ibab ibab     0 Aug  6 16:14  cherry
+    user has read and write ; group has read and write and others has write permission
+ q2)2) umask has deault of 0002 therefore for dir it will be 777-002 and for file it will remain 664   
+ q2)3) -rw-rw-r-- 1 ibab ibab 0 Aug  6 16:40 orange
+ user has read and write, group has read and write and others has read permission
+ octal values user: 6 ; group: 6; others: 4
+ q2)4) drwxrwxr-x 2 ibab ibab 4096 Aug  6 16:45 santra
+ user and group has all and others dont have write permission
+ octal values: u:7; g: 7; o:5
+ q2)5) -rw-rw-r-- 1 ibab ibab 0 Aug  6 16:50 orange
+ the permissions are the same therefore doesnt change anything
+ q2)6) -rw-rw-r-- 1 ibab ibab    0 Aug  6 16:40 orange
+drw-rw-r-- 2 ibab ibab 4096 Aug  6 16:50 santra
+didnt affect 
+octal value: 664
+q2)7) it didnt change 
