@@ -1,0 +1,24 @@
+This line has too man spaces.
+Replace tabs wIth single spaces.
+This line starts with too many spaces.
+--------------------------------------------------
+the quick brown fox jumps ovr the lazy dog.
+Vim is an amazing text editor.
+I enjoy learning vim.
+Python is fun,but also challenging.
+------------------------------------------------
+Hello world! this sentence needs a period
+What is your name?
+Yes   , I   lIke apples
+WaIt...this  is  too...many dots...
+-----------------------------------------------
+I really just want to say that this is fine.
+Please delete the word TODO anywhere it appears.
+TODO I wIll fix this line.
+-------------------------------------------------
+Name Age city
+AlIce 24 New York
+Bob 32 Los Angeles
+CharlIe 19 Chicago
+------------------------------------------------------
+

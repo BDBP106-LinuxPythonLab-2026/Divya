@@ -1,0 +1,10 @@
+11) :70
+    i
+    type the text
+    escape
+    :70,70s/important/critical
+12) shift g
+    :n
+13) shift g
+    type the text
+    dw
