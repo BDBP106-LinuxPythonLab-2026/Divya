@@ -1,0 +1,21 @@
+1)1 sed -n '/and/p' sed.txt
+  2 sed 's/language/lang/g' sed.txt
+  3 sed -n '/is/d' sed.txt
+  4 sed '=' sed.txt | sed 'N;s/\n/ /'
+  5 sed '1,2d' sed.txt
+  6 sed -n '1~2p' sed.txt
+  7 sed 's/Python/python ; 's/languages/lang sed.txt
+
+2)1 awk '$2<25 {print $1}' sed.txt2
+  2 awk '$3=="Physics" {print $1}' sed.txt2
+  3 awk '{print $1 "," $2 "," $3}'  sed2.txt > sed.csv
+
+ 
+3) 1  awk '!/>/' sed.txt3
+   2 sed 's/T/U/g' sed.txt3
+   3 's/seq1/human_gene/g' sed.txt3
+   
+4)  awk '$4=="PHE" {print $2}' 1hk0.pdb1 > PHE_atoms.xyz  
+ 
+
+
