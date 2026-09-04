@@ -1,0 +1,6 @@
+sort -k2,2n -t ":" SOCR-HeightWeight_data.csv -o sort.txt
+ibab@IBAB-MScBDB04-Comp05:~/DivyaBoobana/IA-1_practice_mock$ sort -k2,2n -r -t ":" SOCR-HeightWeight_data.csv -o sort.txt
+ibab@IBAB-MScBDB04-Comp05:~/DivyaBoobana/IA-1_practice_mock$ sort -k2,2n -r -t ":" SOCR-HeightWeight_data.csv -o sortr.txt
+ibab@IBAB-MScBDB04-Comp05:~/DivyaBoobana/IA-1_practice_mock$ sort -k4,4n -r -t ":" SOCR-HeightWeight_data.csv -o sortrw.txt
+
+no
